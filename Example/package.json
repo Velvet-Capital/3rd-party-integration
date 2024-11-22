@@ -1,0 +1,19 @@
+{
+  "name": "deposit-scripts",
+  "version": "1.0.0",
+  "description": "deposit-scripts",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@uniswap/permit2-sdk": "^1.2.1",
+    "axios": "^1.7.1",
+    "dotenv": "^16.4.5",
+    "ethers": "^5.5.4",
+    "qs": "^6.12.1"
+  }
+}
